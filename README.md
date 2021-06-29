@@ -1,3 +1,7 @@
+# ESP8266 RTOS ADD WebSocket
+
+Add websocket server and client, add a demo to use it!
+
 # ESP8266 RTOS Software Development Kit
 
 [![Documentation Status](https://readthedocs.com/projects/espressif-esp8266-rtos-sdk/badge/?version=latest)](https://docs.espressif.com/projects/esp8266-rtos-sdk/en/latest/?badge=latest)
