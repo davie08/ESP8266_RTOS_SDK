@@ -12,4 +12,9 @@ config HTTPD_MAX_URI_LEN
     help
         This sets the maximum supported size of HTTP request URI to be processed by the server
 
+    config HTTPD_WS_SUPPORT
+        bool "WebSocket server support"
+        default n
+        help
+            This sets the WebSocket server support.
 endmenu
